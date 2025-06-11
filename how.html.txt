@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>How CCS Works</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>How CCS Works</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="how.html">How CCS Works</a>
+      <a href="benefits.html">Benefits</a>
+      <a href="future.html">Future</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Three Main Steps</h2>
+      <ul>
+        <li><strong>Capture:</strong> CO₂ is separated from gases produced in electricity generation or industrial processes.</li>
+        <li><strong>Transport:</strong> The CO₂ is compressed and transported via pipelines or ships.</li>
+        <li><strong>Storage:</strong> It is injected into deep geological formations such as depleted oil fields or saline aquifers.</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 CCS Awareness</p>
+  </footer>
+</body>
+</html>

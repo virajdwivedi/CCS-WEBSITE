@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Future of CCS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Future of Carbon Capture</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="how.html">How CCS Works</a>
+      <a href="benefits.html">Benefits</a>
+      <a href="future.html">Future</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Innovations on the Horizon</h2>
+      <ul>
+        <li>Direct Air Capture (DAC) technologies</li>
+        <li>Advanced materials for better CO₂ separation</li>
+        <li>AI and remote sensing for leak detection</li>
+      </ul>
+
+      <p>With global collaboration and investment, CCS can play a major role in achieving net-zero emissions.</p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 CCS Awareness</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Carbon Capture and Storage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Carbon Capture and Storage (CCS)</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="how.html">How CCS Works</a>
+      <a href="benefits.html">Benefits</a>
+      <a href="future.html">Future</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Welcome to CCS Education</h2>
+      <p>Carbon Capture and Storage (CCS) is a vital technology to combat climate change. It involves capturing carbon dioxide emissions from sources like power plants and storing it underground.</p>
+      <p>Explore the site to learn how it works, its benefits, challenges, and innovations shaping the future of CCS.</p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 CCS Awareness</p>
+  </footer>
+</body>
+</html>
